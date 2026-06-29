@@ -79,4 +79,4 @@ expense_tracker/
 3. Create the database and table using the SQL above.
 4. Open `http://localhost/expense_tracker/` in your browser.
 
-## Project Structure
+
